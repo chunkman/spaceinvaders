@@ -1,3 +1,5 @@
+# My pygame crap
+
 import pygame
 
 # Initialize pygame
